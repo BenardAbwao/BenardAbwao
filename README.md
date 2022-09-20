@@ -2,6 +2,11 @@
  Hi there 👋
 </h1>
 
+<h2 align="center">
+ I'm Benard Abwao
+</h2>
+
+
 <h2 align="center"> ✨ Glad to see you here ✨ </h2>
 
 I'm a fullstack developer with a collaborative mindset who's able to work, individually or in teams, gracefully. I have experience using HTML, CSS, React JavaScript and more. I like solving problems and building things people will love to use.
